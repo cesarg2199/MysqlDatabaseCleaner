@@ -1,1 +1,1 @@
-{"hostname":"localhost","username":"root","password":"","database":"aosdb_test"}
+{"host_name":"localhost","username":"root","password":"","database":"cesarcargo"}
